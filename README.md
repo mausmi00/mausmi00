@@ -5,9 +5,9 @@
 ### 🛠️ Tech Toolbox  
 ```javascript
 const mySkills = {
-  languages: ["Java", "JavaScript/TypeScript", "Python", "C/C++", "PHP"],
+  languages: ["Java", "JavaScript", "TypeScript", "Python", "C", "C++", "PHP"],
   frontend: ["React", "Redux", "HTML/CSS", "Next.js"],
-  backend: ["Node.js", "Express.js", "SQL", "OpenAPI/Swagger"],
+  backend: ["Node.js", "Express.js", "SQL", "OpenAPI", "Swagger"],
   databases: ["PostgreSQL", "MongoDB", "MySQL", "Oracle"],
   devOps: ["GitHub", "Gerrit", "Jenkins"],
   monitoring: ["Grafana", "Kibana", "Dynatrace"]
